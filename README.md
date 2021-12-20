@@ -1,4 +1,4 @@
-# EbayViewer
+# Ebay Viewer
 
 Utilizes REQUESTS library of Python in order to send views to ebay listing (Which in turns makes the listing go up on the search criteria). In order to not get "caught", the bot needs proxies in the proxies.txt file in the format: proxy:port:user:password
 
